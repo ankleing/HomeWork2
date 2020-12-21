@@ -4,8 +4,8 @@
  ##  实验内容：用约束布局，线性布局和表格布局制作界面
 ## 实验步骤：
 ## 1
-![image1](https://github.com/ankleing/HomeWork2/tree/master/image/image1.png)
+![image1](https://github.com/ankleing/HomeWork2/blob/master/image/image1.png)
 ## 2
-![image2](https://github.com/ankleing/HomeWork2/tree/master/image/image2.png)
+![image2](https://github.com/ankleing/HomeWork2/blob/master/image/image2.png)
 ## 3
-![image2](https://github.com/ankleing/HomeWork2/tree/master/image/image3.png)
+![image2](https://github.com/ankleing/HomeWork2/blob/master/image/image3.png)
